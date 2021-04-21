@@ -1,5 +1,5 @@
 <!doctype html>
-<!-- code by webdevtrick (https://webdevtrick.com) -->
+
 <html lang="en">
   <head>
     <title>PHP CRUD | Dreamtech</title>
